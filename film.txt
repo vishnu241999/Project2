@@ -26,10 +26,10 @@ adding a message by VPM on 17-03-22
 
 adding a message  by laya augustine
 
-
+it was a nice movie
 adding a message by mubi on March 17
 
-
+ i like it 
 BeeshmaParvam - Wils
 
 
@@ -41,6 +41,21 @@ that movie just hit the blockbusters
 
 adding a message by beneeta
 
+<<<<<<< HEAD
 KGF2 IS A NICE FILM . HANNA MARIYAM
+=======
+The blood-soaked land of Kolar Gold Fields has a new overlord now, Rocky, whose name strikes fear in the heart of his foes.  film reviwed by amal
+
+message 25 may 2022:xd
+
+------------------------------------------------------------------------------------------------------------
+Jana Gana Mana is like a Rubik's cube whose 'true' combination changes every few minutes.
+The other impressive quality about Jana Gana Mana is how it feels like three or four movies rolled into one.
+--------------------------------------msg added by Arjun Jayakumar------------------------------------------
+
+its a good film by evugin
+
+>>>>>>> a26ee10c508c3d43d314e91fa3e2454621387555
 
 
+its agood film
